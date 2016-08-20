@@ -1,1 +1,128 @@
 # ESR - by Anubhav Shelat and William Yang
+
+import random
+import time
+
+EGYPTIAN_RAT_SCREW_PICS = ['''
+
+   ________
+  |        |
+  |   Ace  |
+  |   Ace  |
+  |   Ace  |
+  |________|''','''
+
+   ________
+  |        |
+  |    2   |
+  |   Two  |
+  |    2   |
+  |________|''','''
+
+   ________
+  |        |
+  |    3   |
+  |  Three |
+  |    3   |
+  |________|''','''
+
+   ________
+  |        |
+  |    4   |
+  |  Four  |
+  |    4   |
+  |________|''','''
+
+   ________
+  |        |
+  |    5   |
+  |   Five |
+  |    5   |
+  |________|''','''
+
+   ________
+  |        |
+  |    6   |
+  |   Six  |
+  |    6   |
+  |________|''','''
+
+   ________
+  |        |
+  |    7   |
+  |  Seven |
+  |    7   |
+  |________|''','''
+
+   ________
+  |        |
+  |    8   |
+  |  Eight |
+  |    8   |
+  |________|''','''
+
+   ________
+  |        |
+  |    9   |
+  |   Nine |
+  |    9   |
+  |________|''','''
+
+   ________
+  |        |
+  |   10   |
+  |   Ten  |
+  |   10   |
+  |________|''','''
+
+   ________
+  |        |
+  |   Jack |
+  |   Jack |
+  |   Jack |
+  |________|''','''
+
+   ________
+  |        |
+  |  Queen |
+  |  Queen |
+  |  Queen |
+  |________|''','''
+
+   ________
+  |        |
+  |  King  |
+  |  King  |
+  |  King  |
+  |________|''']
+
+
+
+def displayRules():
+    print('Here are the simple rules to the 2 player card game ERS')
+    print('Each player gets half a deck of cards')
+    print('Each turn, each player slaps down a card, you are not aloud to look at the cards you have')
+    print('If a person plays a face card or an ace, then the following happens')
+    print('If the face card is a jack, then if the next player does\'nt play a face card with the next card he plays, then the person who played the jack takes all the cards placed down')
+    print('If the face card is a queen, then the other player has to place 2 cards and so on')
+    print('If one person plays a card and the next person plays the same card, the person who slaps on the pile first gets all of the cards')
+    print('It is the same if one person plays one card, the other person plays a card and the next person plays the same card')
+    print('The person who has all the cards at the end win')
+
+def dealCards():
+    cards = '2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 8 8 8 8 9 9 9 9 10 10 10 10 jack jack jack jack queen queen queen queen king king king king ace ace ace ace'.split()
+    random.shuffle(cards)
+    playerCards = []
+    playerCards.insert(0 , cards[0:26])
+    computerCards = []
+    computerCards.insert(0, cards[27:52])
+    return playerCards and computerCards
+
+def gameplay():
+    print('Press p and enter to place down a card')
+    print('Press s and enter to call a sandwich')
+    len(playerCards) = numberOfPlayerCards
+    len(computerCards) = numberOfPlayerCards
+    numberOfCardsPlaced = 0
+    while humanChoice != 'p':
+        numberOfPlayerCards = numberOfPlayerCards - 1
