@@ -28,6 +28,6 @@
 
 **Bibliography:**
  
-[1] https://heinonline.org/HOL/LandingPage?handle=hein.journals/aklr16&div=21&id=&page=\
-[2] http://www.cantonhealth.org/pdf/2018%20Sunshine%20Laws.pdf\
-[3] https://www.ohioauditor.gov/open/stars.html\
+[1] https://heinonline.org/HOL/LandingPage?handle=hein.journals/aklr16&div=21&id=&page </br>
+[2] http://www.cantonhealth.org/pdf/2018%20Sunshine%20Laws.pdf\ </br>
+[3] https://www.ohioauditor.gov/open/stars.html\ </br>
