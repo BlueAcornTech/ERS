@@ -1,6 +1,7 @@
 ### Ohio Transparency Laws Research
 
 **Sunshine Law Requirements:**
+
 - All local governments and agencies must comply with the Ohio Sunshine Laws introduced in 1975 '96 which sets out guidelines for local government transparency 
 - The Sunshine Laws are a set of laws comprised of the Ohio Public Records Act, and the Ohio Open Meetings Law
 - **Ohio Public Records Act:**
@@ -11,7 +12,9 @@
     - The Open Meetings Act requires members of a public body to take official action, conduct deliberations, and discuss the public business in an open meeting, unless the subject matter is specifically exempted by law [2]
     - The Act defines a '93meeting'94 as: (1) a prearranged gathering of (2) a majority of the members of a public body (3) for the purpose of discussing public business [2]
     - Certain public gatherings are exempted from this act such as grand juries, the Ohio General Assembly etc. [2] 
+
 **Stars Rating System:**
+
 -	The Stars Rating System contains guidelines for government transparency which are not mandatory but implemented in addition to the Sunshine Law Requirements [3]
 -	There are 7 additional guidelines to earn a higher Star Rating for government transparency: (Quoted from [3])
     - 1 - The public office employs a method to track public records requests, such as record requested, date received and date provided.
@@ -24,6 +27,7 @@
 -	My note: it may be useful to look into this system further as it may lead us to sources containing specific transparency ratings for towns in Ohio
 
 **Bibliography:**
-[1] https://heinonline.org/HOL/LandingPage?handle=hein.journals/aklr16&div=21&id=&page=
-[2] http://www.cantonhealth.org/pdf/2018%20Sunshine%20Laws.pdf
-[3] https://www.ohioauditor.gov/open/stars.html
+ 
+[1] https://heinonline.org/HOL/LandingPage?handle=hein.journals/aklr16&div=21&id=&page=\
+[2] http://www.cantonhealth.org/pdf/2018%20Sunshine%20Laws.pdf\
+[3] https://www.ohioauditor.gov/open/stars.html\
